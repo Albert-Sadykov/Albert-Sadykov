@@ -1,43 +1,42 @@
-<h1 align="center">Привет! Я Альберт — Python Backend Developer 🐍</h1>
+<h1 align="center">Садыков Альберт</h1>
 
 <p align="center">
-  <a href="mailto:albert.sadykov.06@mail.ru">📧 albert.sadykov.06@mail.ru</a> •
-  <a href="https://t.me/drxzps">💬 @drxzps</a>
+  <strong> Middle Python Backend Engineer</strong>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Albert-Sadykov&show_icons=true&theme=react" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-Sadykov&layout=compact&theme=react" alt="Top Languages" />
+  <a href="mailto:albert.sadykov.06@mail.ru">Email</a> ·
+  <a href="https://t.me/drxzps">Telegram</a>
 </p>
----
-
-### 👨‍💻 Обо мне
-
-- 🎯 Python Backend Developer с опытом в **Django, Flask, FastAPI, PostgreSQL**
-- 🔧 Создаю backend-системы, REST API, Telegram-ботов и аналитические модули
-- 🧠 Победитель хакатонов, люблю работать с архитектурой и оптимизацией
-- ☁️ Опыт с Docker, Redis, CI/CD, настройкой серверов на Linux
 
 ---
 
-### 💼 Мой стек
+### Обо мне
 
-```python
-# Языки
-Python • JavaScript (base level)
+Backend-разработчик с 4 годами коммерческого опыта. Специализируюсь на проектировании и разработке серверных приложений, асинхронных сервисов и распределённых систем.
 
-# Backend
-Django • Flask • REST API
+В настоящее время работаю в FinTech, занимаюсь разработкой и развитием финансовых backend-систем.
 
-# Базы данных
-PostgreSQL • Redis • MongoDB • MySQL • SQLite
+Основные направления работы:
+- Проектирование и разработка backend-сервисов
+- Асинхронное программирование и событийно-ориентированная архитектура
+- Работа с реляционными базами данных и оптимизация SQL-запросов
+- Интеграция сервисов и обработка сообщений
+- Обеспечение надёжности и производительности приложений
 
+### Технологии
 
+| Категория | Технологии |
+|---|---|
+| **Языки** | Python, SQL |
+| **Backend** | FastAPI, Django, Flask, SQLAlchemy, Alembic, Pydantic, asyncio |
+| **Базы данных** | PostgreSQL, MySQL, MongoDB |
+| **Кеширование** | Redis |
+| **Брокеры сообщений** | Apache Kafka, RabbitMQ |
+| **Инфраструктура** | Docker, Linux, Nginx, S3 |
+| **Инструменты** | Git, GitLab, GitHub Actions, CI/CD |
 
-# DevOps / Tools
-Docker • Git • Nginx • Linux • GitHub Actions • Gitea
+### Контакты
 
-# Прочее
-Telegram Bot API • Google Calendar API • Pandas • Plotly • Google Sheets API • aiogram
-
-
+- **Email:** [albert.sadykov.06@mail.ru](mailto:albert.sadykov.06@mail.ru)
+- **Telegram:** [@drxzps](https://t.me/drxzps)
